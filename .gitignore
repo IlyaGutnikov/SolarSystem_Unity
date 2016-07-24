@@ -40,6 +40,7 @@ sysinfo.txt
 *.apk
 *.unitypackage
 *.app
+*.zip
 
 # ================ #
 # MAC OS generated #
